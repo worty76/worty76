@@ -4,7 +4,7 @@
 - 🐒 Gender: Male
 - 🔭 I’m currently working on this website
 - 🌱 Freshman
-- 🎼 Playing guitar, piano....
+- 🎼 Playing guitar
 - 💬 Ask me about anything
 
 
