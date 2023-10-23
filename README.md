@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="object-fit: contain; height: 300px;" src="https://pm1.aminoapps.com/7659/11ffef8ba6b3ff58393e3ebdfc597eb96f5478d0r1-1280-720v2_uhq.jpg"/>
+<img style="height: 300px;" src="https://pm1.aminoapps.com/7659/11ffef8ba6b3ff58393e3ebdfc597eb96f5478d0r1-1280-720v2_uhq.jpg"/>
 
 ```javascript
 const worty = {
