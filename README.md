@@ -13,6 +13,6 @@ const worty = {
 }
 ```
 
-<em><b>Thank you for spending being here for a while</b>. If you want to say hi, <b>I'll be happy to meet you more!</b> :)</em>
+<em><b>Thank you for spending time being here for a while</b>. If you want to say hi, <b>I'll be happy to meet you more!</b> :)</em>
 
 
