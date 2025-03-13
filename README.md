@@ -6,7 +6,7 @@
 const worty = {
   fullName: "Le Thanh Dat",
   pronouns: "he" | "him",
-  age: 21,
+  age: 22,
   roles: ["DevOps Engineer", "Backend Developer"],
   code: [Javascript, Typescript, Python, Golang],
   tools: [React, Node, Styled-Components, Docker],
