@@ -8,9 +8,9 @@ const worty = {
   pronouns: "he" | "him",
   age: 22,
   roles: ["DevOps Engineer", "Backend Developer"],
-  code: [Javascript, Typescript, Python, Golang],
-  tools: [React, Node, Styled-Components, Docker],
-  languages: [English, Vietnamese]
+  code: ["Javascript", "Typescript", "Python", "Golang"],
+  tools: ["Next.js", "NestJS", "Django"],
+  languages: ["English", "Vietnamese"]
 }
 ```
 
