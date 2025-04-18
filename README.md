@@ -9,7 +9,7 @@ const worty = {
   age: 22,
   roles: ["DevOps Engineer", "Backend Developer"],
   code: ["Javascript", "Typescript", "Python", "Golang"],
-  tools: ["Next.js", "NestJS", "Django"],
+  tools: ["Next.js", "NestJS"],
   languages: ["English", "Vietnamese"]
 }
 ```
