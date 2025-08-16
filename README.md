@@ -9,7 +9,7 @@ const worty = {
   age: 22,
   roles: ["Fullstack Developer"],
   skills: {
-    languages: ["JavaScript", "TypeScript", "Python", "Go", "Java"],
+    languages: ["TypeScript", "Python", "Go", "Java", "C++"],
     frameworks: ["Next.js", "NestJS", "Gin", "Express.js"],
     tools: ["Docker", "AWS", "Cypress", "Vscode"],
     managementTools: ["Asana", "Jira"]
