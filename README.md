@@ -11,7 +11,7 @@ const worty = {
   skills: {
     languages: ["TypeScript", "Python", "Go", "Java", "C++"],
     frameworks: ["Next.js", "NestJS", "Gin", "Express.js"],
-    tools: ["Docker", "AWS", "Cypress", "Vscode"],
+    tools: ["Docker", "AWS", "Cypress", "VSCode", "Zed"],
     managementTools: ["Asana", "Jira"]
   },
   languages: ["English", "Vietnamese"],
