@@ -8,15 +8,17 @@ const worty = {
   pronouns: "he" | "him",
   age: 24,
   roles: ["Go Developer"],
-  skills: {
-    languages: ["TypeScript", "Python", "Go", "Elixir"],
-    frameworks: ["Next.js", "NestJS", "Gin", "Express.js"],
-    tools: ["Docker", "AWS", "Cypress", "VSCode", "Zed"],
-    managementTools: ["Asana", "Jira"]
+  techStack: {
+    languages: ["Go", "TypeScript", "Python", "Elixir"],
+    frameworks: ["Gin", "NestJS", "Next.js", "Express.js"]
   },
+  devTools: ["Docker", "AWS", "Cypress"],
+  editors: ["VSCode", "Zed"],
+  managementTools: ["Asana", "Jira"],
   languages: ["English", "Vietnamese"],
-  operatingSystems: ["Linux", "Windows"],
+  operatingSystems: ["Linux", "Windows"]
 }
+
 ```
 
 <em><b>Thank you for spending time being here for a while</b>. If you want to say hi, <b>I'll be happy to meet you more!</b> :)</em>
