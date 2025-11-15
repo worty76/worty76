@@ -4,7 +4,7 @@
 
 ```javascript
 const worty = {
-  fullName: "Le Thanh Dat",
+  nickname: "worty",
   pronouns: "he" | "him",
   age: 24,
   roles: ["Go Developer"],
