@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="height: 300px;" src="https://pm1.aminoapps.com/7659/11ffef8ba6b3ff58393e3ebdfc597eb96f5478d0r1-1280-720v2_uhq.jpg"/>
+<img style="height: 300px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hyNWY4cTR5MmRicWM0cHhya3c5NnE5Nmp3ZndtMXA0azZwZjkxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4jGXdw8ee8JhTofBwX/giphy.gif"/>
 
 ```javascript
 const worty = {
