@@ -6,7 +6,7 @@
 const worty = {
   nickname: "worty",
   pronouns: "he" | "him",
-  age: 24,
+  age: 22,
   roles: ["Go Developer"],
   techStack: {
     languages: ["Go", "TypeScript", "Python", "Elixir"],
