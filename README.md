@@ -7,7 +7,7 @@ func NewWorty() *Worty {
 	return &Worty{
 		Nickname: "worty",
 		Pronouns: []string{"he", "him"},
-		Age:      22,
+		Age:      23,
 		Roles:    []string{"Go Developer"},
 		TechStack: TechStack{
 			Languages:  []string{"Go", "TypeScript", "Python", "Elixir"},
