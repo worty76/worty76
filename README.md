@@ -17,7 +17,8 @@ func NewWorty() *Worty {
 		Editors:         []string{"VSCode", "Zed"},
 		ManagementTools: []string{"Asana", "Jira"},
 		Languages:       []string{"English", "Vietnamese"},
-		OperatingSystem: []string{"Linux", "Windows"},
+		// I used these Linux distros for a while: Omarchy, Ubuntu, Fedora. I love Linux.
+		OperatingSystem: []string{"Linux", "Windows", "macOS"},
 	}
 }
 ```
