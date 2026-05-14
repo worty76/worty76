@@ -8,9 +8,9 @@ func NewWorty() *Worty {
 		Nickname: "worty",
 		Pronouns: []string{"he", "him"},
 		Age:      23,
-		Roles:    []string{"Go Developer"},
+		Roles:    []string{"Go Developer", "Software Engineer"},
 		TechStack: TechStack{
-			Languages:  []string{"Go", "TypeScript", "Python", "Elixir"},
+			Languages:  []string{"Go", "TypeScript", "Python"},
 			Frameworks: []string{"Gin", "NestJS", "Next.js", "Express.js"},
 		},
 		DevTools:        []string{"Docker", "AWS", "Cypress"},
