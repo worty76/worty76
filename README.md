@@ -11,7 +11,7 @@ func NewWorty() *Worty {
 		Roles:    []string{"Go Developer", "Software Engineer"},
 		TechStack: TechStack{
 			Languages:  []string{"Go", "TypeScript", "Python"},
-			Frameworks: []string{"Gin", "NestJS", "Next.js", "Express.js"},
+			Frameworks: []string{"Gin", "Echo", "Django", "NestJS", "Next.js", "Express.js"},
 		},
 		DevTools:        []string{"Docker", "AWS", "Cypress"},
 		Editors:         []string{"VSCode", "Zed"},
