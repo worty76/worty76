@@ -10,8 +10,8 @@ func NewWorty() *Worty {
 		Age:      23,
 		Roles:    []string{"Go Developer", "Software Engineer"},
 		TechStack: TechStack{
-			Languages:  []string{"Go", "TypeScript", "Python"},
-			Frameworks: []string{"Gin", "Echo", "Django", "NestJS", "Next.js", "Express.js"},
+			Languages:  []string{"Go", "TypeScript", "Python", "Rust"},
+			Frameworks: []string{"Gin", "Echo", "Django", "NestJS", "Next.js", "Axum"},
 		},
 		DevTools:        []string{"Docker", "AWS", "Cypress"},
 		Editors:         []string{"VSCode", "Zed"},
